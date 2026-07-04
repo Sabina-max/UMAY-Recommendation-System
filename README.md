@@ -8,6 +8,7 @@ Rule-Based Recommendation System prototype for UMAY Shop developed during intern
 
 ---
 
+
 ## 1. Итоговые результаты и выводы
 
 В ходе практики был разработан и протестирован базовый прототип рекомендательной системы (Rule-Based Recommendation System) для маркетплейса UMAY Shop на основе доступных публичных данных.
